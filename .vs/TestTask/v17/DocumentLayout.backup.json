@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gameo\\TestTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED558555-7CFE-1154-77C4-81942055D01A}|Assembly-CSharp.csproj|C:\\Users\\gameo\\TestTask\\assets\\game\\_scripts\\bulb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED558555-7CFE-1154-77C4-81942055D01A}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\_scripts\\bulb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED558555-7CFE-1154-77C4-81942055D01A}|Assembly-CSharp.csproj|c:\\users\\gameo\\testtask\\assets\\game\\_scripts\\managers\\spritemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED558555-7CFE-1154-77C4-81942055D01A}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\_scripts\\managers\\spritemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED558555-7CFE-1154-77C4-81942055D01A}|Assembly-CSharp.csproj|C:\\Users\\gameo\\TestTask\\assets\\game\\_scripts\\enums\\slimecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED558555-7CFE-1154-77C4-81942055D01A}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\_scripts\\enums\\slimecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED558555-7CFE-1154-77C4-81942055D01A}|Assembly-CSharp.csproj|C:\\Users\\gameo\\TestTask\\assets\\game\\_scripts\\slime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED558555-7CFE-1154-77C4-81942055D01A}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\_scripts\\slime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED558555-7CFE-1154-77C4-81942055D01A}|Assembly-CSharp.csproj|C:\\Users\\gameo\\TestTask\\assets\\game\\_scripts\\managers\\bulbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED558555-7CFE-1154-77C4-81942055D01A}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\_scripts\\managers\\bulbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED558555-7CFE-1154-77C4-81942055D01A}|Assembly-CSharp.csproj|C:\\Users\\gameo\\TestTask\\assets\\game\\_scripts\\data\\bulbinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED558555-7CFE-1154-77C4-81942055D01A}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\_scripts\\data\\bulbinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED558555-7CFE-1154-77C4-81942055D01A}|Assembly-CSharp.csproj|C:\\Users\\gameo\\TestTask\\assets\\game\\_scripts\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED558555-7CFE-1154-77C4-81942055D01A}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\_scripts\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpriteManager.cs",
+              "DocumentMoniker": "C:\\Users\\gameo\\TestTask\\Assets\\Game\\_Scripts\\Managers\\SpriteManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\_Scripts\\Managers\\SpriteManager.cs",
+              "ToolTip": "C:\\Users\\gameo\\TestTask\\Assets\\Game\\_Scripts\\Managers\\SpriteManager.cs",
+              "RelativeToolTip": "Assets\\Game\\_Scripts\\Managers\\SpriteManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:07:58.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Selector.cs",
+              "DocumentMoniker": "C:\\Users\\gameo\\TestTask\\Assets\\Game\\_Scripts\\Selector.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\_Scripts\\Selector.cs",
+              "ToolTip": "C:\\Users\\gameo\\TestTask\\Assets\\Game\\_Scripts\\Selector.cs",
+              "RelativeToolTip": "Assets\\Game\\_Scripts\\Selector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:26:07.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bulb.cs",
+              "DocumentMoniker": "C:\\Users\\gameo\\TestTask\\Assets\\Game\\_Scripts\\Bulb.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\_Scripts\\Bulb.cs",
+              "ToolTip": "C:\\Users\\gameo\\TestTask\\Assets\\Game\\_Scripts\\Bulb.cs",
+              "RelativeToolTip": "Assets\\Game\\_Scripts\\Bulb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:49:02.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SlimeColor.cs",
+              "DocumentMoniker": "C:\\Users\\gameo\\TestTask\\Assets\\Game\\_Scripts\\Enums\\SlimeColor.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\_Scripts\\Enums\\SlimeColor.cs",
+              "ToolTip": "C:\\Users\\gameo\\TestTask\\Assets\\Game\\_Scripts\\Enums\\SlimeColor.cs",
+              "RelativeToolTip": "Assets\\Game\\_Scripts\\Enums\\SlimeColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:44:39.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Slime.cs",
+              "DocumentMoniker": "C:\\Users\\gameo\\TestTask\\Assets\\Game\\_Scripts\\Slime.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\_Scripts\\Slime.cs",
+              "ToolTip": "C:\\Users\\gameo\\TestTask\\Assets\\Game\\_Scripts\\Slime.cs",
+              "RelativeToolTip": "Assets\\Game\\_Scripts\\Slime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:43:11.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BulbManager.cs",
+              "DocumentMoniker": "C:\\Users\\gameo\\TestTask\\Assets\\Game\\_Scripts\\Managers\\BulbManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\_Scripts\\Managers\\BulbManager.cs",
+              "ToolTip": "C:\\Users\\gameo\\TestTask\\Assets\\Game\\_Scripts\\Managers\\BulbManager.cs",
+              "RelativeToolTip": "Assets\\Game\\_Scripts\\Managers\\BulbManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:40:38.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BulbInfo.cs",
+              "DocumentMoniker": "C:\\Users\\gameo\\TestTask\\Assets\\Game\\_Scripts\\Data\\BulbInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\_Scripts\\Data\\BulbInfo.cs",
+              "ToolTip": "C:\\Users\\gameo\\TestTask\\Assets\\Game\\_Scripts\\Data\\BulbInfo.cs",
+              "RelativeToolTip": "Assets\\Game\\_Scripts\\Data\\BulbInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:37:08.482Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
